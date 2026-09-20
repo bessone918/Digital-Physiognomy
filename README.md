@@ -210,4 +210,4 @@ Digital Physiognomy is offered as a full free version with all features and upda
 - 💬 **[Community](https://www.softyne.com/about-us/)**
 
 ---
-**Last updated:** 2026-09-20 10:39:51 UTC
+**Last updated:** 2026-09-20 14:29:53 UTC
